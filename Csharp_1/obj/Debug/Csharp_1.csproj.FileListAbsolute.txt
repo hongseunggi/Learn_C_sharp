@@ -1,6 +1,0 @@
-C:\Users\Seunggi\source\repos\Csharp_1\Csharp_1\bin\Debug\Csharp_1.exe.config
-C:\Users\Seunggi\source\repos\Csharp_1\Csharp_1\bin\Debug\Csharp_1.exe
-C:\Users\Seunggi\source\repos\Csharp_1\Csharp_1\bin\Debug\Csharp_1.pdb
-C:\Users\Seunggi\source\repos\Csharp_1\Csharp_1\obj\Debug\Csharp_1.csprojAssemblyReference.cache
-C:\Users\Seunggi\source\repos\Csharp_1\Csharp_1\obj\Debug\Csharp_1.exe
-C:\Users\Seunggi\source\repos\Csharp_1\Csharp_1\obj\Debug\Csharp_1.pdb

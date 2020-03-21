@@ -1,12 +1,12 @@
 # First study C#
 c# is very similar to Java   
-c# source code must have Main() Method and it is only one. Main() 
+c# source code must have Main() Method and it is only one.   
 this file is studies for Console.WriteLine, Console.ReadLine and Global, local variable
 
 ## 1. Console.WriteLine(), Console.ReadLine()
 both Method real full name is "System.Console.~()"   
 if you declare "using System" then you can remove "System."   
-Console.WriteLine() is the printf() in C
+Console.WriteLine() is the printf() in C   
 Example for Console.WriteLine()
 
     class Program
